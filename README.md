@@ -2,6 +2,6 @@ I am an energetic person, an effective communicator, a quick learner, and a prob
 
 I have worked on developing various enterprise-level web applications for helping companies solve problems for sectors like retail, legaltech, education, healtech, marketing, e-commerce.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-housni)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-housni&hide=hack&layout=default&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-housni)](https://github.com/anuraghazra/github-readme-stats)
