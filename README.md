@@ -5,3 +5,10 @@ I have worked on developing various enterprise-level web applications for helpin
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-housni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-housni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://linkedin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-housni&repo=github-readme-stats" />
+</a>
+<a href="https://linkedin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-housni&repo=convoychat" />
+</a>
