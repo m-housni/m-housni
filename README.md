@@ -4,4 +4,4 @@ I have worked on developing various enterprise-level web applications for helpin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-housni)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-housni&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-housni&layout=default?langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
