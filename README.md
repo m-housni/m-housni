@@ -6,9 +6,9 @@ I have worked on developing various enterprise-level web applications for helpin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-housni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://linkedin">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-housni&repo=github-readme-stats" />
 </a>
-<a href="https://linkedin">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-housni&repo=convoychat" />
 </a>
