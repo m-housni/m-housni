@@ -3,7 +3,7 @@
   <p align="center">✨ FullStack Developer & Open Source Enthusiast. ✨</p>
 </div>
 <div align="center">
-  <a href="mailto:mohamed.housni@um5s.net.ma">Email</a>&nbsp; . &nbsp;
+  <a href="mailto:mohamed.housni@um5s.net.ma">Hire Me</a>&nbsp; . &nbsp;
   <a href="https://m-housni.github.io/">Portfolio</a>&nbsp; . &nbsp;
   <a href="https://www.linkedin.com/in/m-housni">Linkedin</a>&nbsp; . &nbsp;
 <div><br />
