@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://m-housni.github.io/">Portfolio</a>&nbsp; . &nbsp;
   <a href="https://www.linkedin.com/in/m-housni">Linkedin</a>&nbsp; . &nbsp;
-  <a href="mailto:mohamed.housni@um5s.net.ma">Hire Me</a>&nbsp; . &nbsp;
+  <a href="mailto:mohamed.housni@um5s.net.ma">Hire Me</a>
 <div><br />
 
 
