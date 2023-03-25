@@ -1,6 +1,6 @@
 <div align="center">
   <b>Hi! &nbsp;Welome, I'm m-housni</b> 
-  <p align="center">✨ FullStack developer & Think of me as a kinda open source enthusiast . ✨</p>
+  <p align="center">✨ FullStack Developer & Open Source Enthusiast. ✨</p>
 </div>
 <div align="center">
   <a href="mailto:mohamed.housni@um5s.net.ma">Email</a>&nbsp; . &nbsp;
