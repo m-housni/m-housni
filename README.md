@@ -1,6 +1,6 @@
 <div align="center">
   <b>Hi! &nbsp;Welome, I'm m-housni</b> 
-  <p align="center">✨ FullStack JS Developer & Open Source Enthusiast. ✨</p>
+  <p align="center">✨ FullStack JS/PHP Developer & Open Source Enthusiast. ✨</p>
 </div>
 <div align="center">
   <a href="https://m-housni.github.io/">Portfolio</a>&nbsp; . &nbsp;
