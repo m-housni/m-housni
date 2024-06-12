@@ -1,15 +1,16 @@
-<div align="center">
-  <b>Hi! &nbsp;Welome, I'm m-housni</b> 
-  <p align="center">✨ FullStack Developer & Open Source Enthusiast. ✨</p>
-</div>
-<div align="center">
-  <a href="https://m-housni.github.io/">Portfolio</a>&nbsp; . &nbsp;
-  <a href="https://www.linkedin.com/in/m-housni">Linkedin</a>&nbsp; . &nbsp;
-  <a href="mailto:mohamed.housni@um5s.net.ma">Hire Me</a>
-<div><br />
+<h1 align="center">Hi 👋, I'm Housni Mohamed</h1>
+<h3 align="center">A passionate frontend/backend developer from Morocco</h3>
 
-<!--
-|My overall statistics|Top most languages | Streak |
-|------------------|------------------|------------------|
-|![m-housni's github stats](https://github-readme-stats.vercel.app/api?username=m-housni&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-housni&langs_count=8&hide_border=true&theme=tokyonight&layout=compact)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-housni&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)|
--->
+- 🔭 I’m currently working on [Monica](https://github.com/monicahq/monica/) and [OpenCMS](https://github.com/monicahq/monica/) 
+- 🐙 Check my latest creations
+- Check my latest contributions
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/m-housni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asbin" height="30" width="40" /></a>
+<a href="https://twitter.com/m-housni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asbin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-housni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis.saettler" height="30" width="40" /></a>
+<a href="https://instagram.com/m-housni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asbin_" height="30" width="40" /></a>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=m-housni&show_icons=true&locale=en" alt="m-housni" /></p>
