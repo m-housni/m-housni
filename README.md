@@ -2,5 +2,3 @@
 
 Fullstack engineer from Morocco 🇲🇦
 
-Currently working on [Monica](https://github.com/monicahq/monica/) and [ElasticSearch](https://github.com/elastic/elasticsearch) 
-
