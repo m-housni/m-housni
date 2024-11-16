@@ -1,6 +1,10 @@
 <h1 align="left">Hi 👋, I'm Mohamed Housni</h1>
 
-Experienced Full-Stack Developer with 8+ years of experience building web applications using JavaScript, React, Node.js, and PHP, with a strong foundation in both front-end and back-end development. Passionate about solving complex problems, delivering high-quality solutions, and contributing to teams success.
+Full-Stack Developer with 8+ years of experience in designing, developing, and deploying web applications. Proficient in JavaScript (React, Node.js) and PHP (Laravel, Symfony), with expertise in both front-end and back-end technologies. Strong problem-solving skills and a passion for delivering high-quality, scalable solutions in Agile environments.
 
-- Portfolio
+- Resume => ...
+- Portfolio => ...
+- Blog => ...
+
+I'm currently considering new opportunities
 
