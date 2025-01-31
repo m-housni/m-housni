@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Mohamed Housni</h1>
+I’m a Fullstack JavaScript Engineer with **9 years** of experience building and scaling web applications. I specialize in both modern **frontend** frameworks like **React** and **Angular** and backend technologies such as **Node.js**, **Express**, and **MongoDB**.
 
-Full-Stack Developer with 9+ years of experience in designing, developing, and deploying web applications. Proficient in JavaScript (React, Node.js) and PHP (Laravel, Symfony), with expertise in both front-end and back-end technologies. Strong problem-solving skills and a passion for delivering high-quality, scalable solutions in Agile environments.
+Over the years, I’ve worked on automating **CI/CD pipelines**, designing **microservices**, and improving application **performance**. I enjoy collaborating with cross-functional teams, tackling legacy code challenges, and creating user-focused solutions that deliver real business impact.
 
-I’m currently considering new opportunities.
+I’m passionate about clean, **maintainable code**, following best practices like **TDD** and scalable **design patterns**, and building software that truly meets user needs while staying technically robust.
 
